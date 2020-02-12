@@ -8,43 +8,43 @@ user@user:~$ python dodoom.py
 ```
 
 ```
-Generating profile for user_id: 257198
+Generating profile for user_id: 250398
 Calculating recommended books
-Results overlap by 75.18% -- [0.7517741403]
-Jaccard Similarity vs Golden Standard overlap by 83.89% -- [0.8389391745]
-Dice Coefficient vs Golden Standard overlap by 75.18% -- [0.7517741403]
+Results overlap by 69.71% -- [0.6970673218]
+Jaccard Similarity vs Golden Standard overlap by 81.80% -- [0.8180051063]
+Dice Coefficient vs Golden Standard overlap by 69.71% -- [0.6970673218]  
 Writing data to file...
 Done!
 
-Generating profile for user_id: 183952
+Generating profile for user_id: 216670
 Calculating recommended books
-Results overlap by 69.16% -- [0.6915675737]
-Jaccard Similarity vs Golden Standard overlap by 81.43% -- [0.8143051055]
-Dice Coefficient vs Golden Standard overlap by 69.16% -- [0.6915675737]
+Results overlap by 73.70% -- [0.7369798156]
+Jaccard Similarity vs Golden Standard overlap by 83.51% -- [0.8351157890]
+Dice Coefficient vs Golden Standard overlap by 73.70% -- [0.7369798156]
 Writing data to file...
 Done!
 
-Generating profile for user_id: 241980
+Generating profile for user_id: 187830
 Calculating recommended books
-Results overlap by 73.11% -- [0.7310737515]
-Jaccard Similarity vs Golden Standard overlap by 83.18% -- [0.8317534776]
-Dice Coefficient vs Golden Standard overlap by 73.11% -- [0.7310737515]
+Results overlap by 59.32% -- [0.5931951108]
+Jaccard Similarity vs Golden Standard overlap by 66.56% -- [0.6655744469]
+Dice Coefficient vs Golden Standard overlap by 60.83% -- [0.6082847686]
 Writing data to file...
 Done!
 
-Generating profile for user_id: 251140
+Generating profile for user_id: 190459
 Calculating recommended books
-Results overlap by 67.07% -- [0.6706715361]
-Jaccard Similarity vs Golden Standard overlap by 80.49% -- [0.8048551255]
-Dice Coefficient vs Golden Standard overlap by 67.07% -- [0.6706715361]
+Results overlap by 61.39% -- [0.6138761709]
+Jaccard Similarity vs Golden Standard overlap by 70.57% -- [0.7056556228]
+Dice Coefficient vs Golden Standard overlap by 61.39% -- [0.6138761709]
 Writing data to file...
 Done!
 
-Generating profile for user_id: 224146
+Generating profile for user_id: 197410
 Calculating recommended books
-Results overlap by 66.64% -- [0.6664370027]
-Jaccard Similarity vs Golden Standard overlap by 80.51% -- [0.8050906068]
-Dice Coefficient vs Golden Standard overlap by 66.64% -- [0.6664370027]
+Results overlap by 77.40% -- [0.7739733814]
+Jaccard Similarity vs Golden Standard overlap by 84.85% -- [0.8484804875]
+Dice Coefficient vs Golden Standard overlap by 77.40% -- [0.7740279325]
 Writing data to file...
 Done!
 
