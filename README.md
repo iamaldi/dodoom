@@ -49,4 +49,12 @@ Writing data to file...
 Done!
 
 ```
+
+## Requirements
+
+This code is written in Python 3 and requires the following dependencies:
+```
+pip install nltk
+```
+
 This code was written as part of a university assignment.
