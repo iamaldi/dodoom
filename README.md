@@ -1,5 +1,5 @@
 # dodoom
-A plain simple book recommendation system utilizing Jaccard similarity and Dice coefficient. dodoom uses the Book-Crossing dataset (http://www2.informatik.uni-freiburg.de/~cziegler/BX/). All data were downloaded in CSV format and then later imported into the `book.db` SQLite3 database.
+A plain and simple book recommendation system utilizing Jaccard similarity and Dice coefficient. dodoom uses the Book-Crossing dataset (http://www2.informatik.uni-freiburg.de/~cziegler/BX/). All data were downloaded in CSV format and then later imported into the `book.db` SQLite3 database.
 
 # A snapshot of dodoom during execution
 
